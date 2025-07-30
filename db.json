@@ -1,4 +1,3 @@
-{
 [
   {
     "id": 5928101,
@@ -6,7 +5,7 @@
     "title": "Cat Adoption Day",
     "description": "Find your new feline friend at this event.",
     "location": "Meow Town",
-    "date": "January 28, 2022",
+    "date": "2022-01-28",
     "time": "12:00",
     "petsAllowed": true,
     "organizer": "Kat Laydee"
@@ -17,7 +16,7 @@
     "title": "Community Gardening",
     "description": "Join us as we tend to the community edible plants.",
     "location": "Flora City",
-    "date": "March 14, 2022",
+    "date": "2022-03-14",
     "time": "10:00",
     "petsAllowed": true,
     "organizer": "Fern Pollin"
@@ -28,21 +27,20 @@
     "title": "Beach Cleanup",
     "description": "Help pick up trash along the shore.",
     "location": "Playa Del Carmen",
-    "date": "July 22, 2022",
+    "date": "2022-07-22",
     "time": "11:00",
     "petsAllowed": false,
     "organizer": "Carey Wales"
   },
   {
-      "id": 9999999,
-      "category": "education",
-      "title": "Book Donation Drive",
-      "description": "Donate your old books to local schools.",
-      "location": "Central Library",
-      "date": "August 10, 2025",
-      "time": "09:00",
-      "petsAllowed": false,
-      "organizer": "Jane Reader"
-    }
+    "id": 9999999,
+    "category": "education",
+    "title": "Book Donation Drive",
+    "description": "Donate your old books to local schools.",
+    "location": "Central Library",
+    "date": "2025-08-10",
+    "time": "09:00",
+    "petsAllowed": false,
+    "organizer": "Jane Reader"
+  }
 ]
-}
